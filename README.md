@@ -1,5 +1,4 @@
-Estudante de Engenharia de Controle e Automação | Inatel
-Atualmente no sexto período, com formação técnica em Mecatrônica e experiência prática em sistemas embarcados, automação, IoT e Redes Móveis.
+Control and Automation Engineering Student | Inatel Currently in the sixth semester, with a technical background in Mechatronics and practical experience in embedded systems, automation, IoT, and Mobile Networks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-oliveira-87155a203/)
 
