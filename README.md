@@ -2,7 +2,7 @@ Embedded Software Developer with 2+ years delivering production firmware for ind
 
 Experienced in C/C++ firmware, RTOS, HAL, LVGL, PID control, CAN, Modbus, MQTT, automated end-of-line testing for production and edge-to-cloud IoT integration.
 
-Completing a B.Eng. in Control and Automation Engineering at INATEL, with a technical background in Mechatronics from SENAI.
+Completing a B.Eng. in Control and Automation at INATEL, with a technical background in Mechatronics from SENAI.
 
 ### Connect with me
 
