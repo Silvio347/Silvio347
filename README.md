@@ -1,6 +1,8 @@
-Embedded Software Developer with 2+ years delivering production firmware for industrial, agricultural, robotics and broadcast systems, with knowledge across the full product cycle: from schematics and firmware to backend and apps.
+Embedded Software Engineer focused on C/C++, RTOS, firmware, and connected embedded systems.
 
-Experienced in C/C++ firmware, RTOS, HAL, LVGL, PID control, CAN, Modbus, MQTT, automated end-of-line testing for production and edge-to-cloud IoT integration.
+2+ years of experience developing production firmware for industrial, agricultural, robotics, and broadcast applications, working with Zephyr RTOS, FreeRTOS, STM32, ESP32, Nordic nRF, CAN, Modbus, MQTT, BLE, and embedded Linux.
+
+Experience across system architecture, low-power design, real-time control, hardware integration, testing, and edge-to-cloud IoT systems.
 
 Completing a B.Eng. in Control and Automation at INATEL, with a technical background in Mechatronics from SENAI.
 
